@@ -1,7 +1,7 @@
 {
   "name": "@saadbashir/simple-calculator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.5",
+  "description": "This is my npm calculator package",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,9 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin": {
-    "calculator_test":"./index.js"
-  },
+  "bin": "index.js",
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.16"
